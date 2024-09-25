@@ -34,9 +34,9 @@
 
 ### 〽️ UMich Projects*
 
-- [Relational Database Emulator](https://github.com/allenpinjic/relational-database-emulator)<br>
+- [Instagram Clone (Server-Side)](https://github.com/allenpinjic/insta485-serverside)<br>
 - [Path Finding Simulation](https://github.com/allenpinjic/path-finder-simulation)<br>
-- [Stock Market Simulation](https://github.com/allenpinjic/stock-market-simulator)<br>
+- [Relational Database Emulator](https://github.com/allenpinjic/relational-database-emulator)<br>
 
 <sup>*</sup>Descriptions of each project
 

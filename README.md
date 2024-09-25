@@ -26,16 +26,16 @@
 
 ## Projects
 
+### 〽️ UMich
+- [Instagram Clone (Server-Side)](https://github.com/allenpinjic/insta485-serverside)<br>
+- [Path Finding Simulation](https://github.com/allenpinjic/path-finder-simulation)<br>
+- [Relational Database Emulator](https://github.com/allenpinjic/relational-database-emulator)<br>
+
 ### 📖 Research
 - [MuStar Research Project](https://github.com/allenpinjic/mustar-project)<br>
 
 ### 💻 Hackathons
 - [MHacks 2023 - 2D Adventure Game](https://github.com/allenpinjic/mhack)<br>
-
-### 〽️ UMich Projects
-- [Instagram Clone (Server-Side)](https://github.com/allenpinjic/insta485-serverside)<br>
-- [Path Finding Simulation](https://github.com/allenpinjic/path-finder-simulation)<br>
-- [Relational Database Emulator](https://github.com/allenpinjic/relational-database-emulator)<br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=allenpinjic&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>

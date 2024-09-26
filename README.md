@@ -27,7 +27,7 @@
 ## Projects
 
 ### 〽️ UMich
-- [Instagram Clone (Server-Side)](https://github.com/allenpinjic/insta485-serverside)<br>
+- [Instagram Clone](https://github.com/allenpinjic/insta485-serverside)<br>
 - [Path Finding Simulation](https://github.com/allenpinjic/path-finder-simulation)<br>
 - [Relational Database Emulator](https://github.com/allenpinjic/relational-database-emulator)<br>
 

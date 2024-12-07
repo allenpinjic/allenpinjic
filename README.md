@@ -28,6 +28,7 @@
 
 ### 〽️ UMich
 - [Instagram Clone](https://github.com/allenpinjic/insta485-serverside)<br>
+- [Scalable Search Engine](https://github.com/allenpinjic/search-engine)<br>
 - [Path Finding Simulation](https://github.com/allenpinjic/path-finder-simulation)<br>
 - [Relational Database Emulator](https://github.com/allenpinjic/relational-database-emulator)<br>
 

@@ -1,4 +1,4 @@
-# Hi, I'm Allen! 🧑🏻‍💻<br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=1000&color=4B66F7&background=A5FFD800&center=false&width=435&lines=Fourth-year+CS+student+%40+U-M+Ann+Arbor;Software+Development+Intern+%40+Altair+Engineering;Aspiring+Software+Developer+-+January+2025)](https://git.io/typing-svg)
+# Hi, I'm Allen! 🧑🏻‍💻<br>
 
 <p align="center">
         <samp>「 I'm a fourth-year Computer Science student at the University of Michigan in Ann Arbor, MI and an aspiring software developer for January 2025. I am passionate about applying my skills and knowledge in programming to help contribute to real-world initiatives in software development. Currently focused on acquiring knowledge in front-end development languages and tools. 」

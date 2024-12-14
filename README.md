@@ -1,4 +1,4 @@
-# Hi, I'm Allen! 🧑🏻‍💻<br>
+# Hi, I'm Allen!<br>
 
 <p align="center">
         <samp>「 I'm a fourth-year Computer Science student at the University of Michigan in Ann Arbor, MI and an aspiring software developer for January 2025. I am passionate about applying my skills and knowledge in programming to help contribute to real-world initiatives in software development. Currently focused on acquiring knowledge in front-end development languages and tools. 」

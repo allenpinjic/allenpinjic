@@ -26,14 +26,17 @@
 
 ## Projects
 
+### 👨‍💻 Internships
+- [Automated Redundancy Removal Tool](https://github.com/allenpinjic/internship-2024)
+
+### 📖 Research
+- [MuStar Research Project](https://github.com/allenpinjic/mustar-project)<br>
+
 ### 〽️ UMich
 - [Instagram Clone](https://github.com/allenpinjic/insta485-serverside)<br>
 - [Scalable Search Engine](https://github.com/allenpinjic/search-engine)<br>
 - [Path Finding Simulation](https://github.com/allenpinjic/path-finder-simulation)<br>
 - [Relational Database Emulator](https://github.com/allenpinjic/relational-database-emulator)<br>
-
-### 📖 Research
-- [MuStar Research Project](https://github.com/allenpinjic/mustar-project)<br>
 
 ### 💻 Hackathons
 - [MHacks 2023 - 2D Adventure Game](https://github.com/allenpinjic/mhack)<br>

@@ -1,7 +1,7 @@
 # Hi, I'm Allen!<br>
 
 <p align="center">
-        <samp>「 I'm a computer science graduate from the University of Michigan - Ann Arbor and an aspiring software developer. I am passionate about applying my skills and knowledge in programming to help contribute to real-world initiatives in software development, especially those related to networks, distributed systems, and back-end development. 」
+        <samp>「 I'm a software engineer at Autodesk and computer science graduate from the University of Michigan. I am passionate about applying my skills and knowledge in programming to help contribute to real-world initiatives in software development, especially those related to back-end development and code optimization. 」
         </samp>
 </p>
 

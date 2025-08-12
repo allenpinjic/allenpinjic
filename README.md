@@ -26,7 +26,7 @@
 
 ## Projects
 
-### 👨‍💻 Internships
+### 👨‍💻 Internship @ Altair
 - [Automated Redundancy Removal Tool](https://github.com/allenpinjic/internship-2024)
 
 ### 📖 Research
